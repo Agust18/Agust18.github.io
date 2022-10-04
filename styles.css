@@ -3,3 +3,9 @@ body{background-image: url("https://images.ecestaticos.com/MUsrmUgYGUwR5M6ZyyHCD
 h3{color:blanchedalmond}
 h1{color:blanchedalmond}
 h2{color:blanchedalmond}
+
+.titu{
+    font-family: 'Tangerine', serif;
+    font-size: 30px;
+    
+    }
