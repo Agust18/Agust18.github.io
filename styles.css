@@ -1,15 +1,21 @@
 body{background-image: url("https://images.ecestaticos.com/MUsrmUgYGUwR5M6ZyyHCDmeFRUk=/0x0:2121x1414/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd9e%2F66d%2F793%2Fd9e66d793adbc994841e60850a17e61c.jpg")}
 
-h3{color:blanchedalmond}
-h1{color:blanchedalmond}
-h2{color:blanchedalmond}
+
 
 .titu{
     font-family: 'Tangerine', serif;
     font-size: 45px;
+    color: blanchedalmond;
     }
-h3,h2{font-family: 'Tangerine', serif;
+h3{font-family: 'Tangerine', serif;
     font-size: 25px;
+    color:blanchedalmond
 
+}
+
+.formu{
+    font-family: "tangerine", serif;
+    font-size: 34px;;
+    color: blanchedalmond;
 }
 
