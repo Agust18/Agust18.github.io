@@ -6,16 +6,16 @@ body{background-image: url("https://images.ecestaticos.com/MUsrmUgYGUwR5M6ZyyHCD
     font-family: 'Tangerine', serif;
     font-size: 45px;
     color: blanchedalmond;
+    text-align: start;
+    text-decoration:underline;
     }
-h3{font-family: 'Tangerine', serif;
+h3{
+    font-family: 'Tangerine', serif;
     font-size: 25px;
     color:blanchedalmond
-
+    
+    
 }
 
-.formu{
-    font-family: "tangerine", serif;
-    font-size: 34px;;
-    color: blanchedalmond;
-}
+
 
