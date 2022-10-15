@@ -1,16 +1,25 @@
+
+
+@import url('https://fonts.googleapis.com/css2? family= Poppins:ital,wght@0,200;0,400;1,200;1,600 & display=swap');
+
+
 body{background-image: url("https://images.ecestaticos.com/MUsrmUgYGUwR5M6ZyyHCDmeFRUk=/0x0:2121x1414/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd9e%2F66d%2F793%2Fd9e66d793adbc994841e60850a17e61c.jpg")}
+
+
+
 
 h1{
     color: blanchedalmond;
-    text-align: center;
+    text-align: start;
+    font-size:none;
+
 }
 
 .titu{
-    font-family: 'Tangerine', serif;
-    font-size: 45px;
-    color: blanchedalmond;
-    text-align: start;
-    text-decoration:underline;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    color:white;
+    background-color:none;
     }
 h3{
     font-family: 'Tangerine', serif;
