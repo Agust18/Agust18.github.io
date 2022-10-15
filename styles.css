@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css2? family= Poppins:ital,wght@0,200;0,400;1,200;1,600 & display=swap');
 
 
-body{background-image: url("https://images.ecestaticos.com/MUsrmUgYGUwR5M6ZyyHCDmeFRUk=/0x0:2121x1414/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd9e%2F66d%2F793%2Fd9e66d793adbc994841e60850a17e61c.jpg")}
-
+body{background-image: url("https://fondosmil.com/blanco-liso")}
 .imag{
     width: 200px;
     height: auto;
@@ -13,7 +12,7 @@ body{background-image: url("https://images.ecestaticos.com/MUsrmUgYGUwR5M6ZyyHCD
 
 
 h1{
-    color: blanchedalmond;
+    color: black;
     text-align: start;
     font-size:none;
 
@@ -22,13 +21,13 @@ h1{
 .titu{
     font-family: 'Poppins', sans-serif;
     font-size: 35px;
-    color:white;
+    color:black;
     background-color:none;
     }
 h3{
     font-family: 'Tangerine', serif;
     font-size: 25px;
-    color:blanchedalmond;
+    color:black;
 
 
     
@@ -36,15 +35,15 @@ h3{
 }
 
 button{
-    background-color: black;
-    color: white;
+    background-color:white;
+    color:black;
    
 }
 
 a{
     text-decoration: none;
-    color:blanchedalmond
+    color:black
 }
 a:hover{
-    color:darkgray
+    color:black
 }
