@@ -47,3 +47,13 @@ a{
 a:hover{
     color:black
 }
+.card-body{
+    font-size: 30px;
+
+}
+.card-title{
+    font-size: 20px;
+}
+.card-header{
+    font-size: 40px;
+}
