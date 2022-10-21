@@ -52,9 +52,27 @@ nav h3 a{
 
 #contenido img{
     float: left;
-    width: 200px;
-    height: 180px;
+    width: 250px;
+    height: 230px;
     margin-left: 20px;
     margin-top: 20px;
     border-radius: 10px;
+}
+
+#contenido ul{
+    float: left;
+    margin-left: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    font-size: 30px;
+
+}
+
+#contenido p{
+    float: left;
+    margin-left: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 275px;
 }
