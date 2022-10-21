@@ -34,3 +34,11 @@ nav{
     background:rgb(174,214,241);
     border-radius: 20px;
 }
+
+nav h3 a{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 130px;
+    line-height: 50px;
+    color: black;
+}
