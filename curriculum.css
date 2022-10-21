@@ -76,3 +76,11 @@ nav h3 a{
     text-align: center;
     margin-left: 275px;
 }
+
+#contenido h1{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
