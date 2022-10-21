@@ -17,4 +17,14 @@ header{
     background: rgb(214, 234, 248);
     margin-top: 10px;
     border-radius: 20px;
+
+}
+
+header h1{
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    line-height: 70px;
+    color: black;
+
 }
