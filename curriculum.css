@@ -59,7 +59,7 @@ nav h3 a{
     border-radius: 10px;
 }
 
-#contenido ul{
+#contenido ul .a{
     float: left;
     margin-left: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
