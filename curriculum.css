@@ -42,3 +42,19 @@ nav h3 a{
     line-height: 50px;
     color: black;
 }
+
+#contenido{
+    height: 450px;
+    background:  grey;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+#contenido img{
+    float: left;
+    width: 200px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
