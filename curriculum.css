@@ -2,14 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
-body{background-image: url("https://fondosmil.com/blanco-liso")}
+
 
 #contenedor{
     width: 1200px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    background: rgb(255,255,255);
+    background: black;
 
 }
 
@@ -46,7 +46,7 @@ nav h3 a{
 
 #contenido{
     height: 450px;
-    background:  blanchedalmond;
+    background:ghostwhite;
     margin-top: 10px;
     border-radius: 20px;
 }
@@ -86,3 +86,17 @@ nav h3 a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+footer{
+    background-color: red;
+
+}
+footer a{
+    color: black;
+}
+
+
+
+
+
+
+   
