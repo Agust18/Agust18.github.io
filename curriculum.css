@@ -80,7 +80,7 @@ nav h3 a{
 }
 
 #contenido h1{
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 20px;
     margin-left: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -88,14 +88,34 @@ nav h3 a{
 
 footer{
     background-color: red;
+    border-radius: 10px;
+
 
 }
 footer a{
-    color: black;
+    color:antiquewhite;
 
 }
 
+#contenido1{
+    background-color: white;
+}
+#contenido1 h1{
+    font-size: 30px;
+    
+}
 
+#contenido1 h2{
+    font-size: 20px;
+}
+
+
+
+
+.footer-eduacion{
+    border-radius: 10px;
+    color: red;
+}
 
 
 
