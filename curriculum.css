@@ -15,7 +15,7 @@
 
 header{
     height: 80px;
-    background: red;
+    background: black;
     margin-top: 10px;
     border-radius: 20px;
 
@@ -26,14 +26,14 @@ header h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     line-height: 70px;
-    color: black;
+    color: white;
 }
 
 nav{
     height: 60px;
     margin-top: 10px;
     background:red;
-    border-radius: 20px;
+    
 }
 
 nav h3 a{
@@ -48,7 +48,6 @@ nav h3 a{
     height: 450px;
     background:ghostwhite;
     margin-top: 10px;
-    border-radius: 20px;
 }
 
 #contenido img{
@@ -57,7 +56,7 @@ nav h3 a{
     height: 230px;
     margin-left: 20px;
     margin-top: 20px;
-    border-radius: 10px;
+    
 }
 
 #contenido ul {
@@ -66,14 +65,17 @@ nav h3 a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 30px;
     font-size: 25px;
-
+    
 }
+
+
+    
 
 #contenido p{
     float: left;
     margin-left: 60px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 19px;
     text-align: center;
     margin-left: 275px;
     color: black;
@@ -87,21 +89,22 @@ nav h3 a{
 }
 
 footer{
-    background-color: red;
-    border-radius: 10px;
-
+    background-color:black;
+    
 
 }
 footer a{
-    color:antiquewhite;
+    color:white;
 
 }
 
 #contenido1{
-    background-color: white;
+    background-color: coral;
 }
 #contenido1 h1{
     font-size: 30px;
+    color:antiquewhite;
+    
     
 }
 
@@ -113,15 +116,15 @@ footer a{
 
 
 .footer-eduacion{
-    border-radius: 10px;
+    
     color: red;
 }
 
 .contenedorr p{
-    font-size: 25px;
+    font-size: 20px;
    
     color: black;
-    border: 1px solid black;
+    
 
     padding: 5px
 
@@ -131,7 +134,6 @@ footer a{
 .contenedorr {
     margin:5px
 }
-
 
 
    
