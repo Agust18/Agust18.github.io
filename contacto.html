@@ -1,5 +1,5 @@
 
-<body>
+
     <head>
       <link rel="Stylesheet" type="text/css" href="./curriculum.css">
       <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -9,7 +9,8 @@
           Habilidades-pagina3
       </title>
   </head>
-  <div id="contenedor">
+  <body>
+  <div class="container-fluid">
     <header>
         <h1>Curriculum Vitae</h1>
     </header>
@@ -53,10 +54,30 @@
   
   <link rel="stylesheet" href="curriculum.css">
  
-<div class="container-fluid">
+<div class="container-sm">
   <div class="row">
     <h1 class="text-center">CONTACTANOS</h1>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfwFOY7WdrIvYJgCAhhSAD7GPAfKnlCF5Ner5Dqef_0UUcsjg/viewform?embedded=true" width="640" height="680" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></body>
+    <form>
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        
+        <div id="emailHelp" class="form-text subtext">We'll never share your email with anyone else.</div>
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Telefono-Cel</label>
+        <input type="password" class="form-control" id="exampleInputPassword1">
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Consulta</label>
+        <input type="password" class="form-control" id="exampleInputPassword1">
+      </div>
+      <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
   
 
   </div>
@@ -72,7 +93,9 @@
     background-repeat:no-repeat ;
     background-size: cover;
     height: 100vh;
-  }  
+
+  } 
+  
   h1{color: antiquewhite;}
   
   
